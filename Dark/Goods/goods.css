@@ -1,0 +1,115 @@
+.container { width: 1340px;}
+
+body{
+	background: #181a25;
+	color: #fff;
+}
+#html{
+	margin-top:30%;
+}
+
+.btn{
+	padding: .5rem 1rem;
+	font-size: 1.25rem;
+	line-height: 1.5;
+	border-radius: .3rem;
+	color: #212529;
+	background-color: #adf5ff;
+	border-color: #adf5ff;
+	text-decoration: none;
+}
+/*tovari*/
+.toc{
+	border-radius: 15px;
+	color: #000;
+}
+
+.kar{
+	margin-left: 20px;
+	margin-top: -50px;
+	border-radius: 3px;
+	color: #000;
+}
+
+.naz{
+	margin-left: 500px;
+	margin-top: -180px;
+	color: #000;
+}
+
+.man{
+	margin-left: 500px;
+	color: #000;
+}
+
+.zaka{
+	display: inline-block;
+	color: #000;
+	background-color: transparent;
+	border:1px solid #000;
+	font-size: 14px;
+	line-height: 1px;
+	border-radius: 4px;
+	padding: 12px 8px 8px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	white-space: nowrap;
+	cursor: pointer;
+	text-transform: uppercase;
+	box-shadow: none;
+	text-decoration: none;
+	margin-left: 500px;
+}
+
+.in{
+	margin-left: 500px;
+}
+
+.infa{
+	display: -webkit-box;
+	-webkit-line-clamp: 4;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	font-size: 14px;
+	line-height: 18px;
+	color: var(--gray_dark);
+	margin-left: 500px;
+}
+
+.po{
+	display: inline-block;
+	color: #000;
+	background-color: transparent;
+	border:1px solid #000;
+	font-size: 12px;
+	line-height: 1px;
+	border-radius: 4px;
+	padding: 12px 8px 8px;
+	font-weight: 700;
+	letter-spacing: 0.1px;
+	white-space: nowrap;
+	cursor: pointer;
+	text-transform: uppercase;
+	box-shadow: none;
+	text-decoration: none;
+}
+/*Конец стр.*/
+.prob{
+	display: inline-block;
+	color:#000;
+	background-color: transparent;
+	border:1px solid #000;
+	font-size: 14px;
+	line-height: 1px;
+	border-radius: 4px;
+	padding:12px 8px 8px;
+	font-weight:700;
+	letter-spacing:1px;
+	white-space: nowrap;
+	cursor: pointer;
+	text-transform: uppercase;
+	box-shadow: none;
+	text-decoration: none;
+	margin-left:1100px
+}
+

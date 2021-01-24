@@ -1,0 +1,59 @@
+.container { width: 1340px;}
+
+body{
+	background: #181a25;
+	color: #fff;
+}
+
+
+.btn{
+	padding: .5rem 1rem;
+	font-size: 1.25rem;
+	line-height: 1.5;
+	border-radius: .3rem;
+	color: #212529;
+	background-color: #adf5ff;
+	border-color: #adf5ff;
+	text-decoration: none;
+}
+
+.hra{
+	padding: .5rem 1rem;
+	font-size: 1.25rem;
+	line-height: 1.5;
+	border-radius: .3rem;
+	color: #212529;
+	background-color: #adf5ff;
+	border-color: #adf5ff;
+	text-decoration: none;
+}
+
+.nazv2{
+	margin-top: 70px;
+	color: #B2AEAE;
+}
+
+.discl{
+	color: #B2AEAE;
+}
+
+/*Конец стр.*/
+.prob{
+	display: inline-block;
+	color:#fff;
+	background-color: transparent;
+	border:1px solid #fff;
+	font-size: 14px;
+	line-height: 1px;
+	border-radius: 4px;
+	padding:12px 8px 8px;
+	font-weight:700;
+	letter-spacing:1px;
+	white-space: nowrap;
+	cursor: pointer;
+	text-transform: uppercase;
+	box-shadow: none;
+	text-decoration: none;
+	margin-left:1100px
+}
+
