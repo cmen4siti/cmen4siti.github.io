@@ -1,0 +1,71 @@
+.container { width: 1340px;}
+
+body{
+	background: #d6eaf8;
+	color: #000;
+}
+
+.tik{
+	display: inline-block;
+	color: #000;
+	background-color: transparent;
+	border:1px solid #000;
+	font-size: 14px;
+	line-height: 1px;
+	border-radius: 4px;
+	padding:12px 8px 8px;
+	font-weight:700;
+	letter-spacing:1px;
+	white-space: nowrap;
+	cursor: pointer;
+	text-transform: uppercase;
+	box-shadow: none;
+	text-decoration: none;
+}
+
+.zag{
+	text-align: center;
+	margin-top: -20px;
+}
+
+.nazv{
+	margin-top: 50px;
+	color: #666161;
+}
+
+.nazv2{
+	margin-top: 70px;
+	color: #666161;
+}
+
+.btn{
+	padding: .5rem 1rem;
+	font-size: 1.25rem;
+	line-height: 1.5;
+	border-radius: .3rem;
+	color: #000;
+	background-color: #203587;
+	border-color: #203587;
+	text-decoration: none;
+}
+
+/*Конец стр.*/
+.prob{
+	display: inline-block;
+	color: #000;
+	background-color: transparent;
+	border:1px solid #000;
+	font-size: 14px;
+	line-height: 1px;
+	border-radius: 4px;
+	padding:12px 8px 8px;
+	font-weight:700;
+	letter-spacing:1px;
+	white-space: nowrap;
+	cursor: pointer;
+	text-transform: uppercase;
+	box-shadow: none;
+	text-decoration: none;
+	margin-left:1100px
+}
+
